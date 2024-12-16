@@ -1,8 +1,9 @@
 # .github
 
 <h1 align="center">
-  <samp>&gt; Olá, bem-vindos ao
+  <samp>&gt; Bem-vindo ao
     <b>StayHub</b>
+    Sua locação de quartos!
   </samp>
 </h1>
 
