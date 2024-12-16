@@ -42,7 +42,7 @@
 ### Tecnologias utilizadas
 
 #### Backend:
-<img src="https://skillicons.dev/icons?i=dotnet,cs,sqlite" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs" />
 <img src="https://skillicons.dev/icons?i=sqlserver" />
 
 #### Frontend:
